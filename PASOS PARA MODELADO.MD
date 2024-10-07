@@ -12,3 +12,8 @@
 10. Identificar los tipos de dato de los atributos de las entidades del sistema
 11. Identificar los atributos que puedan ser unicos del sistema
 12. Identificar las reglas del negocio (operaciones CRUD)
+
+
+## pagina para crear modelos relacionales 
+
+[diagramas.net](https://app.diagrams.net/)
